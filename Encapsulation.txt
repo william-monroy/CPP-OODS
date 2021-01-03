@@ -1,0 +1,5 @@
+Public vs. Private
+
+-Public: Members can be accessed by every place
+
+-Private: Members can be accessed by the class itself

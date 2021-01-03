@@ -1,0 +1,14 @@
+Primitive Types
+
+-int
+-char
+-bool
+-float
+-double
+-void (absence of value)
+
+User Defined Types
+
+Very common:
+    -std::string
+    -std::vector
